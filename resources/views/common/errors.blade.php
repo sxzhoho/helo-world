@@ -1,6 +1,6 @@
 <!-- resources/views/common/errors.blade.php -->
 
-@if (count($error)>0)
+@if (count($errors) > 0)
 	<!-- Form Error List -->
 	<div class="alert alert-danger">
 		<strong>Whoops! Something went wrong!</strong>
